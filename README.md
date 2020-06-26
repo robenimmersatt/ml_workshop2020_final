@@ -1,6 +1,6 @@
 # Ml Workshop Universität Leipzig
 Ein Projekt zur Bestimmung von Churns
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robenimmersatt/ml_workshop2020_final/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robenimmersatt/ml_workshop2020_final/workshop2020)
 
 ## Projekt aufsetzen
 Python Version: 3.6
