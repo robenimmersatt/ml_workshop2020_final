@@ -1,6 +1,6 @@
 # Ml Workshop Universität Leipzig
 Ein Projekt zur Bestimmung von Churns
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmoeh/ml_workshop_resetup/master?filepath=churn_classification.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robenimmersatt/ml_workshop2020_final/master)
 
 ## Projekt aufsetzen
 Python Version: 3.6
